@@ -24,11 +24,11 @@ public class Lesson4 {
         // 2. 可选: 中间操作又称转换
         // 3. 终端操作
 
-        demoStreamOf();
-        demoListToStream();
-        demoArrayToStream();
+        //demoStreamOf();
+        //demoListToStream();
+        //demoArrayToStream();
         demoRange();
-        demoIntermediateOperationsAreLazy();
+        //demoIntermediateOperationsAreLazy();
     }
 
     public static void demoListToStream() {

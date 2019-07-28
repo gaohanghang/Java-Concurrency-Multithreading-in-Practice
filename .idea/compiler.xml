@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="concurrency" />
         <module name="Java-Concurrency-Multithreading-in-Practice" />
+        <module name="concurrency" />
       </profile>
     </annotationProcessing>
   </component>
